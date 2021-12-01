@@ -1,0 +1,22 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessabonis/crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessabonis/crud/issues"
+  },
+  "homepage": "https://github.com/vanessabonis/crud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
